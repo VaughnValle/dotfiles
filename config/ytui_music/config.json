@@ -23,29 +23,29 @@
       255
     ],
     "border_highlight": [
-      10,
-      150,
-      150
-    ],
-    "list_idle": [
-      200,
-      160,
-      0
-    ],
-    "list_hilight": [
       255,
       255,
       255
     ],
+    "list_idle": [
+      255,
+      255,
+      255
+    ],
+    "list_hilight": [
+      200,
+      200,
+      200
+    ],
     "sidebar_list": [
-      100,
-      250,
-      20
+      255,
+      255,
+      255
     ],
     "block_title": [
-      175,
-      125,
-      115
+      255,
+      255,
+      255
     ],
     "gauge_fill": [
       85,
@@ -53,25 +53,24 @@
       85
     ],
     "color_primary": [
-      211,
-      111,
-      134
+      255,
+      255,
+      255
     ],
     "color_secondary": [
-      250,
-      230,
-      70
+      255,
+      255,
+      255
     ],
     "status_text": [
-      175,
-      125,
-      115
+      255,
+      255,
+      255
     ]
   },
   "Servers": {
     "list": [
       "https://vid.puffyan.us/api/v1",
-      "https://yewtu.be/api/v1",
       "https://invidious.snopyta.org/api/v1",
       "https://ytb.trom.tf/api/v1",
       "https://invidious.namazso.eu/api/v1",

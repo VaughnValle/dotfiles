@@ -1,0 +1,246 @@
+22:52:39.489: Platform: Wayland
+22:52:39.489: CPU Name: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz
+22:52:39.489: CPU Speed: 4905.177MHz
+22:52:39.490: Physical Cores: 8, Logical Cores: 16
+22:52:39.490: Physical Memory: 32016MB Total, 28499MB Free
+22:52:39.490: Kernel Version: Linux 6.8.9-arch1-1
+22:52:39.490: Distribution: "Arch Linux" Unknown
+22:52:39.490: Desktop Environment: Hyprland (Hyprland)
+22:52:39.490: Session Type: wayland
+22:52:39.491: Qt Version: 6.7.0 (runtime), 6.7.0 (compiled)
+22:52:39.491: Portable mode: false
+22:52:39.520: OBS 30.1.2-1 (linux)
+22:52:39.520: ---------------------------------
+22:52:39.520: ---------------------------------
+22:52:39.520: audio settings reset:
+22:52:39.520: 	samples per sec: 48000
+22:52:39.520: 	speakers:        2
+22:52:39.520: 	max buffering:   960 milliseconds
+22:52:39.520: 	buffering type:  dynamically increasing
+22:52:39.521: ---------------------------------
+22:52:39.521: Initializing OpenGL...
+22:52:39.521: Using EGL/Wayland
+22:52:39.530: Initialized EGL 1.5
+22:52:39.553: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3070/PCIe/SSE2
+22:52:39.553: OpenGL loaded successfully, version 3.3.0 NVIDIA 550.78, shading language 3.30 NVIDIA via Cg compiler
+22:52:39.654: ---------------------------------
+22:52:39.654: video settings reset:
+22:52:39.654: 	base resolution:   1920x1080
+22:52:39.654: 	output resolution: 1280x720
+22:52:39.654: 	downscale filter:  Bicubic
+22:52:39.654: 	fps:               30/1
+22:52:39.654: 	format:            NV12
+22:52:39.654: 	YUV mode:          Rec. 709/Partial
+22:52:39.654: NV12 texture support enabled
+22:52:39.654: P010 texture support not available
+22:52:39.654: Audio monitoring device:
+22:52:39.654: 	name: Default
+22:52:39.654: 	id: default
+22:52:39.654: ---------------------------------
+22:52:39.658: Failed to load 'en-US' text for module: 'decklink-captions.so'
+22:52:39.662: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+22:52:39.665: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+22:52:39.665: Failed to initialize module 'decklink.so'
+22:52:39.741: [pipewire] Available captures:
+22:52:39.741: [pipewire]     - Desktop capture
+22:52:39.741: [pipewire]     - Window capture
+22:52:39.751: v4l2loopback not installed, virtual camera disabled
+22:52:39.789: NVENC supported
+22:52:39.864: VAAPI: API version 1.21
+22:52:39.881: FFmpeg VAAPI H264 encoding supported
+22:52:39.933: FFmpeg VAAPI AV1 encoding supported
+22:52:39.977: FFmpeg VAAPI HEVC encoding supported
+22:52:40.170: ---------------------------------
+22:52:40.170:   Loaded Modules:
+22:52:40.170:     text-freetype2.so
+22:52:40.170:     rtmp-services.so
+22:52:40.170:     obs-x264.so
+22:52:40.170:     obs-webrtc.so
+22:52:40.170:     obs-vst.so
+22:52:40.170:     obs-transitions.so
+22:52:40.170:     obs-qsv11.so
+22:52:40.170:     obs-outputs.so
+22:52:40.170:     obs-libfdk.so
+22:52:40.170:     obs-filters.so
+22:52:40.170:     obs-ffmpeg.so
+22:52:40.170:     linux-v4l2.so
+22:52:40.170:     linux-pulseaudio.so
+22:52:40.170:     linux-pipewire.so
+22:52:40.170:     linux-jack.so
+22:52:40.170:     linux-capture.so
+22:52:40.170:     linux-alsa.so
+22:52:40.170:     image-source.so
+22:52:40.170:     frontend-tools.so
+22:52:40.170:     decklink-output-ui.so
+22:52:40.170:     decklink-captions.so
+22:52:40.170: ---------------------------------
+22:52:40.170: ==== Startup complete ===============================================
+22:52:40.173: No scene file found, creating default scene
+22:52:40.205: All scene data cleared
+22:52:40.205: ------------------------------------------------
+22:52:40.213: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.5) 15.0.0'
+22:52:40.213: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+22:52:40.213: pulse-input: Started recording from 'alsa_output.usb-Schiit_Audio_Schiit_Modi_3-00.analog-stereo.monitor' (default)
+22:52:40.213: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.5) 15.0.0'
+22:52:40.214: pulse-input: Audio format: s16le, 32000 Hz, 2 channels
+22:52:40.214: pulse-input: Started recording from 'alsa_input.usb-046d_HD_Pro_Webcam_C920_4936F69F-02.analog-stereo' (default)
+22:52:40.214: Switched to scene 'Scene'
+22:52:40.214: Failed to glob scene collections
+22:52:40.241: [rtmp-services plugin] Successfully updated file 'services.json' (version 251)
+22:52:40.241: [rtmp-services plugin] Successfully updated package (version 251)
+22:52:40.758: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+22:52:40.758: 
+22:52:40.800: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+22:52:40.800: 
+22:52:55.322: 
+22:52:55.322: ==== Auto-config wizard testing commencing ======
+
+22:52:59.257: Number of remaining views: 1
+22:52:59.257: ---------------------------------
+22:52:59.257: video settings reset:
+22:52:59.257: 	base resolution:   2560x1440
+22:52:59.257: 	output resolution: 1920x1080
+22:52:59.257: 	downscale filter:  Bicubic
+22:52:59.257: 	fps:               60/1
+22:52:59.257: 	format:            NV12
+22:52:59.257: 	YUV mode:          Rec. 709/Partial
+22:52:59.257: NV12 texture support enabled
+22:52:59.257: P010 texture support not available
+22:52:59.258: 
+22:52:59.258: ==== Auto-config wizard testing stopping ========
+
+22:53:01.383:   OpenType support missing for "Open Sans", script 11
+22:53:01.394:   OpenType support missing for "Open Sans", script 12
+22:53:01.400:   OpenType support missing for "Open Sans", script 16
+22:53:01.406:   OpenType support missing for "Open Sans", script 20
+22:53:13.130: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+22:53:13.130: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+22:53:13.133: User added source 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source) to scene 'Scene'
+22:53:13.136: [camera-portal] Selected resolution for ''
+22:53:13.136: [camera-portal] Selected format for ''
+22:53:13.136: [camera-portal] selected camera ''
+22:53:13.154: [camera-portal] Error accessing camera: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Camera” on object at path /org/freedesktop/portal/desktop
+22:53:14.091: [camera-portal] Updating device 
+22:53:24.549: PipeWire initialized
+22:53:24.551: User added source 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source) to scene 'Scene'
+22:53:24.561: [pipewire] Screencast session created
+22:53:26.182: [pipewire] Asking for desktop
+22:53:26.183: [pipewire] desktop selected, setting up screencast
+22:53:26.187: [pipewire] Server version: 1.0.5
+22:53:26.187: [pipewire] Library version: 1.0.5
+22:53:26.187: [pipewire] Header version: 1.0.5
+22:53:26.187: [pipewire] Created stream 0x63268c03d630
+22:53:26.187: [pipewire] Stream 0x63268c03d630 state: "connecting" (error: none)
+22:53:26.187: [pipewire] Playing stream 0x63268c03d630
+22:53:26.187: [pipewire] Stream 0x63268c03d630 state: "paused" (error: none)
+22:53:26.195: [pipewire] Negotiated format:
+22:53:26.195: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+22:53:26.195: [pipewire]     Modifier: 0x0
+22:53:26.195: [pipewire]     Size: 2560x1440
+22:53:26.195: [pipewire]     Framerate: 0/1
+22:53:26.195: [pipewire] Negotiated format:
+22:53:26.195: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+22:53:26.195: [pipewire]     Modifier: 0x300000000e08014
+22:53:26.195: [pipewire]     Size: 2560x1440
+22:53:26.195: [pipewire]     Framerate: 0/1
+22:53:26.196: [pipewire] Stream 0x63268c03d630 state: "streaming" (error: none)
+22:58:47.775: ---------------------------------
+22:58:47.776: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+22:58:47.776: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+22:58:47.776: 	rate_control: CQP
+22:58:47.776: 	bitrate:      0
+22:58:47.776: 	cqp:          23
+22:58:47.776: 	keyint:       -1
+22:58:47.776: 	preset:       p5
+22:58:47.776: 	tuning:       hq
+22:58:47.776: 	multipass:    qres
+22:58:47.776: 	profile:      high
+22:58:47.776: 	width:        1920
+22:58:47.776: 	height:       1080
+22:58:47.776: 	b-frames:     2
+22:58:47.776: 	psycho-aq:    1
+22:58:47.776: 	GPU:          0
+22:58:47.776: 
+22:58:47.889: libfdk_aac encoder created
+22:58:47.889: libfdk_aac bitrate: 192, channels: 2
+22:58:47.905: ==== Recording Start ===============================================
+22:58:47.905: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/bon/2024-05-07 22-58-47.mkv'...
+22:58:47.908: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+22:59:13.626: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/bon/2024-05-07 22-58-47.mkv' stopped
+22:59:13.626: Output 'simple_file_output': stopping
+22:59:13.626: Output 'simple_file_output': Total frames output: 1531
+22:59:13.627: Output 'simple_file_output': Total drawn frames: 1544
+22:59:13.634: ==== Recording Stop ================================================
+22:59:13.877: libfdk_aac encoder destroyed
+23:00:03.860: Number of remaining views: 1
+23:00:03.860: ---------------------------------
+23:00:03.860: video settings reset:
+23:00:03.860: 	base resolution:   2560x1440
+23:00:03.860: 	output resolution: 2560x1440
+23:00:03.860: 	downscale filter:  Bicubic
+23:00:03.860: 	fps:               60/1
+23:00:03.860: 	format:            NV12
+23:00:03.860: 	YUV mode:          Rec. 709/Partial
+23:00:03.860: NV12 texture support enabled
+23:00:03.860: P010 texture support not available
+23:00:03.860: Settings changed (outputs, video)
+23:00:03.860: ------------------------------------------------
+23:00:05.333: ---------------------------------
+23:00:05.333: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+23:00:05.333: 	encoder:      NVIDIA NVENC HEVC (FFmpeg)
+23:00:05.333: 	rate_control: CQP
+23:00:05.333: 	bitrate:      0
+23:00:05.333: 	cqp:          16
+23:00:05.333: 	keyint:       -1
+23:00:05.333: 	preset:       p5
+23:00:05.333: 	tuning:       hq
+23:00:05.333: 	multipass:    qres
+23:00:05.333: 	profile:      main
+23:00:05.333: 	width:        2560
+23:00:05.333: 	height:       1440
+23:00:05.333: 	b-frames:     2
+23:00:05.333: 	psycho-aq:    1
+23:00:05.333: 	GPU:          0
+23:00:05.333: 
+23:00:05.414: libfdk_aac encoder created
+23:00:05.414: libfdk_aac bitrate: 192, channels: 2
+23:00:05.415: ==== Recording Start ===============================================
+23:00:05.415: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/bon/2024-05-07 23-00-05.mkv'...
+23:00:05.417: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+23:06:24.201: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/bon/2024-05-07 23-00-05.mkv' stopped
+23:06:24.201: Output 'simple_file_output': stopping
+23:06:24.201: Output 'simple_file_output': Total frames output: 22715
+23:06:24.201: Output 'simple_file_output': Total drawn frames: 22727
+23:06:24.201: ==== Recording Stop ================================================
+23:06:24.394: libfdk_aac encoder destroyed
+03:14:14.245: ---------------------------------
+03:14:14.245: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+03:14:14.245: 	encoder:      NVIDIA NVENC HEVC (FFmpeg)
+03:14:14.245: 	rate_control: CQP
+03:14:14.245: 	bitrate:      0
+03:14:14.245: 	cqp:          16
+03:14:14.245: 	keyint:       -1
+03:14:14.245: 	preset:       p5
+03:14:14.245: 	tuning:       hq
+03:14:14.245: 	multipass:    qres
+03:14:14.245: 	profile:      main
+03:14:14.245: 	width:        2560
+03:14:14.245: 	height:       1440
+03:14:14.245: 	b-frames:     2
+03:14:14.245: 	psycho-aq:    1
+03:14:14.245: 	GPU:          0
+03:14:14.245: 
+03:14:14.334: libfdk_aac encoder created
+03:14:14.334: libfdk_aac bitrate: 192, channels: 2
+03:14:14.335: ==== Recording Start ===============================================
+03:14:14.335: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/bon/2024-05-08 03-14-14.mkv'...
+03:14:14.337: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+03:17:45.086: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/bon/2024-05-08 03-14-14.mkv' stopped
+03:17:45.086: Output 'simple_file_output': stopping
+03:17:45.086: Output 'simple_file_output': Total frames output: 12634
+03:17:45.086: Output 'simple_file_output': Total drawn frames: 12645
+03:17:45.086: ==== Recording Stop ================================================
+03:17:45.320: libfdk_aac encoder destroyed
+03:54:30.279: [pipewire] Stream 0x63268c03d630 state: "paused" (error: none)
+03:54:30.293: [pipewire] Stream 0x63268c03d630 state: "error" (error: no more input formats)
+03:54:30.293: [pipewire] Error id:2 seq:23 res:-32 (Broken pipe): no more input formats
